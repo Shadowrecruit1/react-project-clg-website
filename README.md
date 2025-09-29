@@ -1,3 +1,6 @@
+## ABOUT
+This repository contains the code and resources for a web development project focused on creating a static and engaging college website. Through this project, I aimed to enhance my web development skills by designing and implementing a modern and user-friendly website.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
