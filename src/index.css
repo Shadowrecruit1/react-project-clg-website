@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.btn{
+    background-color:#FFF;
+    color: #212121;;
+    padding: 14px 25px;
+    border-radius: 30px;
+    font-size: 19px;
+    border: 0;
+}

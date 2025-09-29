@@ -1,0 +1,14 @@
+.title {
+    text-align: center;
+    font-size: 35px;
+    margin: 70px 0 30px;
+    font-weight: 600;
+}
+
+.title p{
+    color: rgb(19, 19, 161);
+}
+
+.title h2{
+    color: rgb(76, 76, 165);
+}
